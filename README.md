@@ -1,5 +1,5 @@
 # Computer Graphics Course
-This repository contains some work I had done for my Computer Graphics Course. 
+This repository contains course work I had done for my Computer Graphics Course. 
 
 # Requirements
    + Python 2.7.14 64 bit. This can be installed using Anaconda.
