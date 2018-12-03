@@ -1,6 +1,5 @@
 ## Graphics and Animation Assignment 1
 
-[Sample Image]
 ## Requirements:
 The following tools were used to develop this program.
    + Python 2.7.14 64 bit. This can be installed using Anaconda.
